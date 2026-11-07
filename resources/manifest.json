@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Community Economy & Travel Resources",
+    "description": "Resource pack for the Community Economy & Travel add-on.",
+    "uuid": "3c36f33e-8c7f-4fa1-b7b5-d5341f5bb18d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2a0bf73f-2aef-4a99-afcf-1f14d97a6784",
+      "version": [1, 0, 0]
+    }
+  ]
+}
